@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    background-size:auto;
 
 
 }
@@ -34,6 +35,7 @@ body {
     width: 1600px;
     height: 808px;
     background-repeat: no-repeat;
+    background-size: auto;
 
 
 
@@ -108,11 +110,15 @@ line-height: 26px;
 
 .person
 {
-    width:451pxpx;
-    height:700.29px;
-    border-radius:527.929px;
-   background: rgba(241, 91, 34, 0.20);
+    
    margin-left: 228px;
+   border-radius: 50%;
+   position: relative;
+   background-color:lightpink;
+   
+   
+
+
 }
 
 .h-tag
